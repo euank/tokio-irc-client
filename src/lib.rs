@@ -24,10 +24,8 @@
 //! on this stream to get a `Stream` or incoming IRC messages and `Sink` for
 //! for sending messages to the server.
 //!
-
 // TODO: **REALLY** improve the quality of the documentation in this library.
 // it's really bad. I'm not very good at writing it.
-
 #![deny(missing_docs)]
 
 #[macro_use]
